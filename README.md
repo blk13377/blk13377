@@ -43,7 +43,7 @@ class Aspect():
 </p>
 
 <p href="https://discord.gg/fnspace" align="center">
-![](https://komarev.com/ghpvc/?username=aspect13377)
+    <img alt="" src=https://komarev.com/ghpvc/?username=aspect13377>/>
 </p>
 
 <h2 align="center">Discord </h2>
