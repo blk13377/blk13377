@@ -9,7 +9,7 @@ class Aspect():
 	    pass
 	
     @staticmethod
-        def readme(self) -> tuple:
+        def contact(self) -> aspect:
 	        discord     = "aspect#9999"
 	        telegram    = "@aspect13377"
 	        mail        = "aspect@thac.gay"
@@ -17,7 +17,7 @@ class Aspect():
             return discord, telegram, mail
 
     @staticmethod
-        def languages(self) -> tuple:
+        def languages(self) -> aspect:
             languages = [German, English, Italy]
             return languages
 
