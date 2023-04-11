@@ -37,7 +37,7 @@ class Aspect():
 </p>
 
 <p href="https://discord.gg/onlp" align="center">
-    <img alt="" src=https://github-readme-stats.vercel.app/api?username=aspect1337&show_icons=true&theme=tokyonight>, https://lanyard.cnrad.dev/api/1056987665565753364
+    <img alt="" src=https://github-readme-stats.vercel.app/api?username=aspect1337&show_icons=true&theme=tokyonight>/>
 </p>
 
 <p href="https://discord.gg/fnspace" align="center">
