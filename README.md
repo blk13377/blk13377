@@ -32,7 +32,7 @@ class Aspect():
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,golang,vscode,js,css,html,lua" />
+    <img src="https://skillicons.dev/icons?i=python,js,lua" />
   </a>
 </p>
 <h2 align="center">Stats </h2>
