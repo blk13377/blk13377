@@ -20,13 +20,6 @@ class Aspect():
         def languages(self) -> aspect:
             languages = [German, English, Italy]
             return languages
-
-    @staticmethod
-        def skidded(from) -> xTekky:
-            from = [xTekky, Thank, You]
-            print("Inspirated aKa skidded from xTekky")
-            return languages
-
 ```
 <h2 align="center">Skills </h2>
 
