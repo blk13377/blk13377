@@ -41,7 +41,7 @@ class Aspect():
 </p>
 <p href="https://discord.gg/fnspace" align="center">
     <img alt="" src=https://komarev.com/ghpvc/?username=aspect13377>
-</p>
+
 <h2 align="center">Discord </h2>
 <p href="https://discord.gg/fnspace" align="center">
     <img alt="" src=https://lanyard.cnrad.dev/api/1056987665565753364/>
