@@ -36,9 +36,15 @@ class Aspect():
   </a>
 </p>
 
+<h2 align="center">Stats </h2>
+
 <p href="https://discord.gg/onlp" align="center">
     <img alt="" src=https://github-readme-stats.vercel.app/api?username=aspect1337&show_icons=true&theme=tokyonight>/>
 </p>
+
+![](https://komarev.com/ghpvc/?username=aspect13377)
+
+<h2 align="center">Discord </h2>
 
 <p href="https://discord.gg/fnspace" align="center">
     <img alt="" src=https://lanyard.cnrad.dev/api/1056987665565753364/>
