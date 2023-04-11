@@ -22,7 +22,7 @@ class Aspect():
             return languages
 
     @staticmethod
-        def skidded(self) -> tuple:
+        def skidded(from) -> xTekky:
             from = [xTekky, Thank, You]
             print("Inspirated aKa skidded from xTekky")
             return languages
@@ -37,7 +37,7 @@ class Aspect():
 </p>
 
 <p href="https://discord.gg/onlp" align="center">
-    <img alt="" src=https://github-readme-stats.vercel.app/api?username=aspect1337&show_icons=true&theme=tokyonight>
+    <img alt="" src=https://github-readme-stats.vercel.app/api?username=aspect1337&show_icons=true&theme=tokyonight>, https://lanyard.cnrad.dev/api/1056987665565753364
 </p>
 
 <p href="https://discord.gg/fnspace" align="center">
