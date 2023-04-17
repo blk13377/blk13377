@@ -13,6 +13,7 @@ class Aspect():
 	        discord     = "aspect#9999"
 	        telegram    = "@aspect13377"
 	        mail        = "aspect@thac.gay"
+		
             return discord, telegram, mail
 
     @staticmethod
