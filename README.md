@@ -28,10 +28,6 @@ class Aspect():
     <img src="https://skillicons.dev/icons?i=python,js,lua" />
   </a>
 </p>
-<h2 align="center">Stats </h2>
-<p href="https://discord.gg/fnspace" align="center">
-    <img alt="" src=https://github-readme-stats.vercel.app/api?username=aspect1337&show_icons=true&theme=tokyonight>
-</p>
 <p href="https://discord.gg/fnspace" align="center">
     <img alt="" src=https://komarev.com/ghpvc/?username=aspect13377>
 </p>
