@@ -32,6 +32,6 @@ class Aspect():
     <img alt="" src=https://komarev.com/ghpvc/?username=aspect13377>
 </p>
 <h2 align="center">Discord </h2>
-<p href="https://discord.gg/fnspace" align="center">
-    <img alt="" src=https://lanyard.cnrad.dev/api/1056987665565753364/>
+<p href="https://discord.gg/none" align="center">
+	<h2 align="center">No discord account currently</h2>
 </p>
