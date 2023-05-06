@@ -17,7 +17,7 @@ class Aspect():
             return discord, telegram, mail
 
     @staticmethod
-        def languages(self) -> aspect:
+        def languages(self) -> blk:
             languages = [German, English, Italy]
             return languages
 ```
