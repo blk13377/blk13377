@@ -1,6 +1,6 @@
 <!-- <p align="center">
-    <img alt="" src=https://img.shields.io/github/stars/xtekky?style=for-the-badge&?affiliations=OWNER%2CCOLLABORATOR />
-    <img alt="" src=https://komarev.com/ghpvc/?username=xtekky&style=for-the-badge />
+    <img alt="" src=https://img.shields.io/github/stars/blk13377?style=for-the-badge&?affiliations=OWNER%2CCOLLABORATOR />
+    <img alt="" src=https://komarev.com/ghpvc/?username=blk1337&style=for-the-badge />
 </p> -->
 
 ```python
@@ -9,10 +9,10 @@ class Aspect():
 	    pass
 	
     @staticmethod
-        def contact(self) -> aspect:
-	        discord     = "aspect#9999"
-	        telegram    = "@aspect13377"
-	        mail        = "aspect@thac.gay"
+        def contact(self) -> blk:
+	        discord     = "blk#8240"
+	        telegram    = "@blk1337"
+	        mail        = "none"
 		
             return discord, telegram, mail
 
