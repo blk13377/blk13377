@@ -10,8 +10,8 @@ class Blk():
 	
     @staticmethod
         def contact(self) -> blk:
-	        discord     = "blk#8240"
-	        telegram    = "@blk1337"
+	        discord     = "blk#8240",
+	        telegram    = "@blk1337",
 	        mail        = "none"
 		
             return discord, telegram, mail
