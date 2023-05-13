@@ -25,10 +25,10 @@ class Blk():
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,lua" />
+    <img src="https://skillicons.dev/icons?i=python,go,js,lua" />
   </a>
 </p>
-<p href="https://discord.gg/fnspace" align="center">
+<p href="https://discord.gg/none" align="center">
     <img alt="" src=https://komarev.com/ghpvc/?username=aspect13377>
 </p>
 <h2 align="center">Discord </h2>
